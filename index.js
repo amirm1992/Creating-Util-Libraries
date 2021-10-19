@@ -7,8 +7,8 @@ Import the functions into the main index and use two different methods for calli
 Then call the functions using arrays of your choice and log the result to the console.*/
 
 
-const firstUtil = require('utilities/Util1.js');
-const secondUtil = require('utilities/Util2.js');
+const firstUtil = require('./Utilities/Util1.js');
+const secondUtil = require('./Utilities/Util2.js');
 
 const numArr = [3,4,5,6,7,];
 const wordArr = ["I", "Love", "Coding", "Javascript"]

@@ -15,4 +15,7 @@ const lgNum = (arr) => {
     return largest;
 };
 
-module.exports = { concat, lgNum }
+module.exports = {
+    concat,
+    lgNum
+};

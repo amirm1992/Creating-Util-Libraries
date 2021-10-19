@@ -17,4 +17,4 @@ const cut3 = (arr) => {
 module.exports = { 
     sum, 
     cut3 
-}
+};
